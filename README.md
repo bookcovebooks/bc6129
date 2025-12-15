@@ -2,7 +2,7 @@
 
 Author: Tuttle, W. C. (Wilbur C.)  
 Original Publisher: Doubleday, Page & Co.  
-Original Publication Date: 1925-01-25
+Original Publication Date: 1925
 
 ## About This Book
 
@@ -30,7 +30,7 @@ output formats for the [bookcove](https://bookcove.net) collection.
 \- `images/` Illustrations and figures  
 \- `cover.jpg` Cover image  
 \- other subdirectories as needed (i.e. `music/` or `fonts/`)  
-\- `LICENSE.txt` and `README.md`
+\- `RIGHTS.md` and `README.md`
 
 ### Output Formats
 
