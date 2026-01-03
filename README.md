@@ -17,6 +17,10 @@ quick-draw action, colorful characters, and the code of the Old West,
 this adventure promises gunplay, mystery, and the kind of justice
 that comes from standing up for what's right.
 
+## Keywords
+
+classic western fiction, cowboy humor, small town saloon, frontier justice, orphan boy story, cowpuncher protagonists, western adventure, ranch sale plot, dog companion, old west drama
+    
 ## About This Repository
 
 This repository contains source files to generate this book in several
@@ -35,6 +39,6 @@ output formats for the [bookcove](https://bookcove.net) collection.
 ### Output Formats
 
 The source XML is a proper subset of TEI markup. It can be built into
-HTML, plain text, EPUB3 or PDF using standard TEI conversion utilities
+HTML, plain text, or other output formats using standard TEI conversion utilities
 or the software tools at bookcove.net.
 
